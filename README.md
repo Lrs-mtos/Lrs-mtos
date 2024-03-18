@@ -15,7 +15,7 @@
   💼 Ferramentas nas quais me arrisco também:
 </p>
 
-<img height="98" src="https://skillicons.dev/icons?i=docker,arduino,nodejs,autocad,git,github,latex,raspberrypi&perline=4"/>
+<img height="98" src="https://skillicons.dev/icons?i=docker,arduino,nodejs,autocad,git,github,latex,raspberrypi,aws&perline=3"/>
 
 <p align="left">
   💌 Pode entrar em contato comigo por aqui ^^ ⤵️
